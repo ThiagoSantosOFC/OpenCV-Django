@@ -40,4 +40,4 @@ Lembre de seguir os requisitos da licensa...
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-server)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
 
-<p align="center">Copyright © 2021 Thiago</p>
+<p align="center">Copyright © 2021 Thiago Santos</p>
