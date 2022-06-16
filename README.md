@@ -2,27 +2,27 @@
 
 # OpenCV-Django
 
-Integração do toolkit openCv com a framework django para realizar reconhecimento facial com ml
+Integration of the openCv toolkit with the django framework to perform facial recognition with ml
 
-## 🔧 Funçoes 
+## 🔧 Functions 
 
 ### Video live Stream:
-- o projeto é capaz de realizar streaming de videos com ate 2 cameras (podem ser ipcams)
+- the project is able to perform video streaming with up to 2 cameras (can be ipcams)
 
-### Reconhecimento facil :
-- O projeto é capaz de indentificar rostos humanos com máscara ou sem máscara 
+### Easy recognition :
+- The project is able to identify human faces with mask or without mask 
 
 
-## Feito Com:
+## Made With:
 
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-## 🤝 Contribuição
+## 🤝 Contribution
 
-Projeto aberto para ajuda!
+Project open for help!
 
-Lembre de seguir os requisitos da licensa...
+Remember to follow the license requirements...
 
 [![LICENSA](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
 
@@ -33,7 +33,7 @@ Lembre de seguir os requisitos da licensa...
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thigazz)
 
 
-### Support Ou Contato
+### Support Of Contact
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
