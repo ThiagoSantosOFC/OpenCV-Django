@@ -2,7 +2,7 @@
 
 # OpenCV-Django
 
-Integration of the openCv toolkit with the django framework to perform facial recognition with ml
+Integration of the openCv toolkit with the django framework to perform facial recognition with ml (the project isnt done yet, but the core works)
 
 ## 🔧 Functions 
 
