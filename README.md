@@ -9,7 +9,7 @@ Integration of the openCv toolkit with the django framework to perform facial re
 ### Video live Stream:
 - the project is able to perform video streaming with up to 2 cameras (can be ipcams)
 
-### Easy recognition :
+### Facial recognition :
 - The project is able to identify human faces with mask or without mask 
 
 
