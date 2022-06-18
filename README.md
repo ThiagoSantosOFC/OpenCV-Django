@@ -13,6 +13,10 @@ Integration of the openCv toolkit with the django framework to perform facial re
 - The project is able to identify human faces with mask or without mask 
 
 
+## 🔧 Future Functions 
+- The possibility of identifying emotions through the EmoPy library
+- The ability to predict the position of the user's head
+
 ## Made With:
 
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
